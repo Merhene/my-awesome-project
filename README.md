@@ -1,1 +1,1 @@
-This awesome project is created to experiment git notions like clone, push and pull
+achievement - I succeed to clone the repo, I'm about to push it
